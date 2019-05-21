@@ -1,0 +1,22 @@
+{
+  "name": "lab-02-classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iansmith17/lab-02-classes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iansmith17/lab-02-classes/issues"
+  },
+  "homepage": "https://github.com/iansmith17/lab-02-classes#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
