@@ -11,7 +11,7 @@ describe('List Data Structure', () => {
     expect(stuff.length).toEqual(0);
     expect(stuff.data).toEqual({});
   });
-
+ 
   it('pushes items to the end of the data set', () => {
     let stuff = new List();
     stuff.push('a');
